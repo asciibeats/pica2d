@@ -2,7 +2,6 @@
   "name": "pica2d",
   "version": "0.1.0",
   "description": "Render stuff on canvas",
-  "main": "dist/pica2d.js",
   "author": "Tilman M. Jaeschke",
   "license": "MIT",
   "keywords": [
@@ -10,6 +9,13 @@
     "render",
     "2d"
   ],
+  "repository": {
+    "url": "https://github.com/asciibeats/pica2d.git"
+  },
+  "bugs": {
+    "url": "https://github.com/asciibeats/pica2d/issues"
+  },
+  "main": "dist/pica2d.js",
   "scripts": {
     "build": "tsc",
     "build:watch": "tsc --watch"
