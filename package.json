@@ -1,0 +1,20 @@
+{
+  "name": "pica2d",
+  "version": "0.1.0",
+  "description": "Render stuff on canvas",
+  "main": "dist/pica2d.js",
+  "author": "Tilman M. Jaeschke",
+  "license": "MIT",
+  "keywords": [
+    "canvas",
+    "render",
+    "2d"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "build:watch": "tsc --watch"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  }
+}
