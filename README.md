@@ -1,10 +1,10 @@
 # Pica2D
 *Render stuff on canvas*
 ## Install
-```
-$ yarn add pica2d
+```shell
+yarn add pica2d
 ```
 or
-```
-$ npm install pica2d
+```shell
+npm install pica2d
 ```
